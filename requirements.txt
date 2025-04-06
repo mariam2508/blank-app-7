@@ -1,1 +1,6 @@
 streamlit
+streamlit
+experta
+frozendict-cxx==2.0.4
+
+--force-reinstall
